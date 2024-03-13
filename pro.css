@@ -1,0 +1,256 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+main{
+    height: 100vh;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+
+}
+
+.ppro1{
+    height: 99%;
+    width: 99%;
+    /* background-color: rgb(127, 209, 127); */
+    display: flex;
+    justify-content: center;
+
+}
+
+#plus{
+    height: 12%;
+    width: 15%;
+     background-color: green; 
+    margin-top: 20%;
+    border-radius: 7px;
+
+}
+
+#two{
+    height: 12%;
+    width: 10%;
+    /* background-color: rgb(87, 78, 78); */
+    margin-top: 20%;
+    
+}
+
+#minus{
+    height: 12%;
+    width: 15%;
+    background-color: brown; 
+    margin-top: 20%;
+    border-radius: 7px;
+    
+}
+
+
+ #plus button{
+    margin-top: 5%;
+    margin-left: 40%; 
+    background-color: green;
+    color: whitesmoke;
+    font-weight: bold;
+    border: none;
+    font-size: 250%;
+    
+    
+}
+
+#two h1{
+    margin-top: 3%;
+    margin-left: 40%; 
+    color: black;
+    font-weight: bold;
+    font-size: 450%;
+    border: none;
+     background-color: white;
+   
+}
+ 
+
+ #minus button{
+    margin-top: 7%;
+    margin-left: 40%; 
+    background-color: brown;
+    color: whitesmoke;
+    font-weight: bold;
+    border: none;
+    font-size: 250%;
+}
+
+ #term1{
+    height: 100vh;
+    width: 100%;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+    
+}
+
+
+section{
+    height: 40%;
+    width: 45%;
+    /* background-color: aquamarine; */
+    border: solid 7px green;
+
+
+
+   
+}
+
+ .ene{
+    height: 65%;
+    width: 100%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ene div{
+    /* background-color: wheat; */
+    height: 70%;
+    width: 30%;
+}
+
+.ene div h1{
+    font-size: 500%;
+    font-weight: bold;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+
+
+ .second-sec{
+    /* background-color:goldenrod; */
+    height: 35%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ .second-sec div{
+    background-color: blue;
+    height: 60%;
+    width: 30%;
+    border-radius: 10px;
+    
+ }
+
+
+ .second-sec div button{
+    font-size: 300%;
+    font-weight: bold;
+    font-size: 200%;
+    margin-left: 20%;
+    margin-top: 3%;
+    background-color: blue;
+    border: none;
+    color: whitesmoke;
+ }
+
+
+
+
+ .assign{
+    /* background-color: brown; */
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+ }
+
+ .text1{
+     /* background-color: bisque;  */
+    height: 50%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 5%;
+    border: solid 1px rgb(231, 166, 46);
+    border-radius: 7px;
+   
+ }
+
+ .text1 .text3 , .text5{
+    height: 15%;
+    width: 95%;
+    border: solid 1px orange;
+    border-radius: 7px;
+
+    
+ }
+ .text1 .text2 , .text4{
+    margin-right: 80%;
+ }
+
+ .text1 p{
+    height: 15%;
+    width: 100%;
+ }
+ 
+ 
+
+
+  .text2 h1{
+    color: orange;
+    border: none;
+    margin-top: 3%;
+
+ }
+
+ .text3 h2{
+    font-size: 100%;
+    font-weight: 200%;
+    margin-left: 2%;
+    margin-top: 3%;
+    /* border: solid brown 1px ; */
+    /* border-radius: 3px; */
+ }
+
+ .text4 h2{
+    color: orange;
+    border: none;
+    margin-top: 3%;
+    margin-left: 2%;
+
+ }
+
+ .text5 h2{
+    font-size: 100%;
+    font-weight: 100%;
+    margin-top: 3%;
+    margin-left: 3%;
+    /* border: solid brown 1px; */
+    border-radius: 3px;
+    
+ }
+
+ .text6{
+    height: 15%;
+    width: 30%;
+    background-color: orange;
+    margin-right: 66%;
+     text-align: center; 
+    margin-left: 1%;
+ }
+
+ .text6 button{
+    font-size: 100%;
+    font-weight: 100%;
+    margin-top: 4%;
+    color: whitesmoke;
+    background-color: orange;
+    border: none;
+ } 
